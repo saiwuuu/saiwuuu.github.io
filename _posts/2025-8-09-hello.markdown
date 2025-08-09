@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "begin 2025"
+subtitle:   " \ Hello Blog\""
+date:       2025-08-09 12:00:00
+author:     "saiwuuu"
+header-img: "img/post-bg-2025.jpg"
+catalog: true
+tags:
+    - Meta
+---
+
+> “ok,begin ”
+
+
+借用网上大佬的博客代码模板使用github pages，有点像拿着别人的模型改参数的感觉。
+
+代码部分结构，作用，参数调整
+
+先拿着模板记录笔记，有的参数藏在哪里不知道怎么改导致页面不正确
+
+Markdown语言记录
+
+文件名按格式记录结尾.markdown
+
